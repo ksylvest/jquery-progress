@@ -1,0 +1,23 @@
+.progress
+{
+  width: 400px;
+  height: 40px;
+}
+
+.progress .outer
+{
+  width: 400px;
+  height: 40px;
+  background-image: url(../images/progress.gif);  
+  background-repeat: no-repeat;
+  background-position: 0% 100%;
+}
+
+.progress .inner
+{
+  width:   0px;
+  height: 40px;
+  background-image: url(../images/progress.gif);
+  background-repeat: no-repeat;
+  background-position: 0% 0%;
+}
