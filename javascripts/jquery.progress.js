@@ -1,7 +1,7 @@
 /*!
  * jQuery Progress
  *
- * Copyright 2010 Kevin Sylvestre
+ * Copyright 2010 - 2011 Kevin Sylvestre
  */
 
 (function ($) {
